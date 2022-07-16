@@ -1,0 +1,4 @@
+Bab,Abr,1987,pat
+Ser,Mik,1992,spor
+Kar,Man,1987,xaker
+Sim,Pog,1990,fizik
